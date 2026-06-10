@@ -118,6 +118,4 @@ Além disso, será possível acompanhar gráficos, consultar o histórico de reg
 
 ---
 
-## Autor
 
-Projeto desenvolvido para fins acadêmicos utilizando Python e Google Colab.
