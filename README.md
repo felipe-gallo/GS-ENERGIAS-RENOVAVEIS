@@ -8,6 +8,11 @@ O sistema foi desenvolvido com foco em energias renováveis e sustentabilidade, 
 
 ---
 
+## Integrantes 
+ Felipe Gallo RM: 569680 
+ Jun Uehara RM: 570537 
+
+---
 ## Objetivo
 
 Desenvolver uma solução capaz de monitorar e analisar dados de uma missão espacial experimental, aplicando conceitos de energia, potência, energias renováveis e sustentabilidade.
